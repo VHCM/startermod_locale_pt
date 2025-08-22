@@ -17,20 +17,20 @@
 				"consume_drink": "bebendo [name(data.target)]",
 				"drink": "pegando uma bebida",
 				"build": "construindo [name(data.target)]",
-				"collect_building_material": "coleta de materiais de construção",
+				"collect_building_material": "coletando materiais de construção",
 				"upgrading": "atualizando [name(data.target)]",
 				"opening": "abrindo [name(data.target)]",
 				"filling": "preenchendo [name(data.target)]",
 				"reloading": "recarregando [name(data.target)]",
 				"fueling": "abastecendo [name(data.target)]",
 				"draining": "drenando [name(data.target)]",
-				"capturing_bees": "captura de abelhas",
+				"capturing_bees": "capturando abelhas",
 				"sculpting": "esculpindo [name(data.target)]",
 				"carving": "esculpindo [name(data.target)]",
 				"emptying": "esvaziando [name(data.target)]",
-				"fish_trap_anchor": "Checar armadilha de peixe",
-				"fish_trap_anchor_ghost": "Montar armadilha de peixe",
-				"pottage": "contribuindo para a sopa",
+				"fish_trap_anchor": "verificando armadilha de peixe",
+				"fish_trap_anchor_ghost": "montando armadilha de peixe",
+				"pottage": "iniciando a preparação da sopa",
 				"pottage_start": "começando a sopa",
 				"striking_gong": "golpeando o gongo",
 				"periodic_interaction": {
@@ -353,7 +353,7 @@
 						"bulletin_title": "A Tecelã agora pode fabricar 'Pedaço de Pano Trançado'!"
 					},
 					"21_residents_outro_a": {
-						"dialogue": "\"Que bela casa você construiu para eles! Eles estarão aqui em breve e tenho certeza de que ficarão encantados! A propósito, tenho certeza de que eles também podem ensinar algumas de nossas deliciosas receitas a você. .\"<p>Eles se lembram de uma última coisa antes de partirem.<p>\"Ah, e agora que alguns de nossos parentes estarão morando aqui, sinto que alguns de nossos mercadores podem arriscar sair, se você os avisar eles são bem vindos!\""
+						"dialogue": "\"Que bela casa você construiu para eles! Eles estarão aqui em breve e tenho certeza de que ficarão encantados! A propósito, tenho certeza de que eles também podem ensinar algumas de nossas deliciosas receitas a você\"<p>Eles se lembram de uma última coisa antes de partirem.<p>\"Ah, e agora que alguns de nossos parentes estarão morando aqui, sinto que alguns de nossos mercadores podem arriscar sair; se você os avisar, eles são bem-vindos!\""
 					},
 					"arcs": {
 						"trigger": {
@@ -365,7 +365,7 @@
 												"dialog_nodes": {
 													"simple_message": {
 														"bulletin_message": {
-															"00": "O visitante acena com a cabeça e se despede.<br><br>Pouco depois, você descobre uma cesta cheia de pétalas macias e vasos de flores ao lado de seu estandarte.<br><br><i><font size=-1>[O os visitantes parecem confiar mais em você]</font></i>"
+															"00": "O visitante acena com a cabeça e se despede.<br><br>Pouco depois, você descobre uma cesta cheia de pétalas macias e vasos de flores ao lado de seu estandarte.<br><br><i><font size=-1>[Os visitantes parecem confiar mais em você]</font></i>"
 														}
 													}
 												}
@@ -378,7 +378,7 @@
 												"dialog_nodes": {
 													"simple_message": {
 														"bulletin_message": {
-															"00": "\"Seu estudante itinerante de Geomancia voltou como um Geomante completo! Eles provaram ser realmente um praticante capaz das artes mágicas!\" que os Geomancers podem usar em seu ofício - certifique-se de cuidar de seus plantadores.\""
+															"00": "\"Seu estudante itinerante de Geomancia voltou como um Geomante completo! Ele provou ser um praticante realmente capaz das artes mágicas! Ele trouxe de volta sementes especiais que os Geomantes podem usar em seu ofício - certifique-se de cuidar de seus plantadores.\""
 														}
 													}
 												}
@@ -391,7 +391,7 @@
 												"dialog_nodes": {
 													"simple_message": {
 														"bulletin_message": {
-															"00": "O Rabbit Geomancer trouxe alguns Hearthbud, Hearth Essence e matérias-primas junto com eles, para ajudar a iniciar sua nova prática acima do solo."
+															"00": "O Geomante Coelho trouxe alguns Hearthbud, Essência do Lar e matérias-primas com ele, para ajudar a iniciar sua nova prática acima do solo."
 														}
 													}
 												}
