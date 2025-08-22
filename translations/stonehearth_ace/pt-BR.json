@@ -6880,7 +6880,7 @@
 				"description": "Deliciosamente inspirado pelo poder da lareira! Músculos e Vigor são aumentados.<ul><li>Este coração curará 10% de sua saúde total a cada 30 minutos</li></ul>"
 			},
 			"shepherd_crook_corn": {
-				"display_name": "Croque de milho de pastor",
+				"display_name": "Croque de Milho de Pastor",
 				"description": "A compaixão e a inspiração são aumentadas. A criação é mais rápida."
 			},
 			"frostfeast": {
@@ -9218,10 +9218,10 @@
 			},
 			"herbalist_idol": {
 				"herbalist_idol_talisman": {
-					"display_name": "ídolo do herborista",
-					"description": "Necessário para promover um hearthling a um Herbalist"
+					"display_name": "Ídolo do Herborista",
+					"description": "Necessário para promover um Hearthling a Herborista"
 				},
-				"display_name": "Ídolo Herbalista",
+				"display_name": "Ídolo do Herborista",
 				"description": "Um pequeno cajado usado para rituais e cerimônias."
 			},
 			"herbalist_staff_bone": {
@@ -9293,8 +9293,8 @@
 			},
 			"engineer_workbench": {
 				"engineer_workbench_ghost": {
-					"display_name": "banco de ferramentas do engenheiro",
-					"description": "Usado pelo Engineer para crafting."
+					"display_name": "Banco de Ferramentas do Engenheiro",
+					"description": "Usado pelo Engenheiro para fabricar seus dispositivos e engenhocas."
 				}
 			},
 			"recipes": {
@@ -9303,7 +9303,7 @@
 				"ranged_weapons_name": "Defesa: Torres",
 				"traps_name": "Defesa: Armadilhas",
 				"engineer_workbench_recipe": {
-					"description": "Usado pelo Engineer para fabricar seus vários dispositivos e engenhocas."
+					"description": "Usado pelo Engenheiro para fabricar seus vários dispositivos e engenhocas."
 				},
 				"refrigerator_small_recipe": {
 					"recipe_name": "Geladeira Pequena",
@@ -9453,25 +9453,25 @@
 					"description": "Usado pelo Oleiro para criar objetos simétricos de argila."
 				},
 				"rc_shepherds_crook_recipe": {
-					"recipe_name": "Cajado de Cerâmica Shepherd",
+					"recipe_name": "Cajado de Pastor de Cerâmica",
 					"flavor": "O pastoreio de animais no deserto é uma tradição desde que os filhos de Rayya caminham por essas dunas"
 				},
 				"na_shepherds_crook_recipe": {
-					"recipe_name": "Cajado de Cerâmica Shepherd",
+					"recipe_name": "Cajado de Pastor de Cerâmica",
 					"flavor": "Os pastores são muito elogiados no norte não só pela carne ou pelos ossos mas sobretudo pelas peles e pela lã"
 				},
 				"cook_clay_spoon_recipe": {
 					"recipe_name": "concha de Cozinheiro",
-					"description": "Necessário para promover um Hearthling a Cook.",
+					"description": "Necessário para promover um Hearthling a Cozinheiro.",
 					"flavor": "'Me deixe orgulhosa, querida!' -Vovó Chenba, a Matriarca Culinária Itinerante do Deserto"
 				},
 				"herbalist_clay_staff_recipe": {
-					"recipe_name": "ídolo do Herborista",
-					"description": "Necessário para promover um hearthling em um Herbalist, que cria curativos e curativos.",
+					"recipe_name": "Ídolo do Herborista",
+					"description": "Necessário para promover um Hearthling a Herborista, que cria curativos e bandagens.",
 					"flavor": "Os ídolos da terra têm poderes de cura, dizem eles"
 				},
 				"potter_mold_bench_recipe": {
-					"recipe_name": "banco de Moldagem de Oleiro",
+					"recipe_name": "Banco de Moldagem do Oleiro",
 					"description": "Para moldar argila em peças de construção úteis que não requerem um toque mais pessoal.",
 					"flavor": "'Todos nós viemos do mesmo molde. É a argila de que somos feitos que nos define.'"
 				},
@@ -10044,7 +10044,7 @@
 				}
 			},
 			"potter_mold_bench": {
-				"display_name": "banco de moldagem de oleiro",
+				"display_name": "Banco de Moldagem do Oleiro",
 				"description": "Uma coleção de moldes para estruturas e objetos de argila."
 			}
 		},
@@ -10132,7 +10132,7 @@
 				},
 				"na_herbalist_staff_bone_recipe": {
 					"recipe_name": "Cajado de Osso do Herbalista",
-					"description": "Necessário para promover um hearthling em um Herbalist, que cria curativos e curativos.",
+					"description": "Necessário para promover um Hearthling a Herborista, que cria curativos e bandagens.",
 					"flavor": "Os poderes de cura de Firnn devem fornecer"
 				},
 				"mason_workbench_bone_recipe": {
@@ -11977,7 +11977,7 @@
 					"flavor": "NUGGETS!"
 				},
 				"cheesecake_recipe": {
-					"recipe_name": "Bolo de queijo",
+					"recipe_name": "Bolo de Queijo",
 					"description": "Asse um creme de queijo bem macio e saboroso e cubra com uma deliciosa geleia de frutas!",
 					"flavor": "Queijo é ótimo, bolo é ótimo, por que não juntá-los?"
 				},
@@ -13320,8 +13320,8 @@
 					"flavor": "'Que cheiro!' – Provavelmente todo mundo"
 				},
 				"shepherd_cheese_vat_recipe": {
-					"recipe_name": "cuba de queijo",
-					"description": "O pastor pode usar isso para fazer queijo criando misturas de coalhada. Também pode ser usado para fazer creme azedo.",
+					"recipe_name": "Cuba de Queijo",
+					"description": "O Pastor pode usar isto para fazer queijo a partir de misturas de coalhada. Também pode ser usado para fazer creme azedo.",
 					"flavor": "Quanto mais tempo descansa, mais valioso fica, mas você pode colher o queijo a qualquer momento durante a maturação"
 				},
 				"curdling_mixture_recipe": {
@@ -13397,7 +13397,7 @@
 					"flavor": "Diga queijo!"
 				},
 				"hearth_fodder_recipe": {
-					"recipe_name": "forragem para animais Hearthbud",
+					"recipe_name": "Forragem Para Animais Hearthbud",
 					"description": "Forragem animal imbuída da essência do Lar.",
 					"flavor": "A forragem Hearthbud é apreciada por todos os animais e aumenta ligeiramente a qualidade dos seus produtos!"
 				},
@@ -13534,7 +13534,7 @@
 				},
 				"level_2_data": {
 					"perk_000_description": "O pastor encontra conforto em longas caminhadas e na alimentação dos animais, tornando-os menos propensos a parar e conversar.",
-					"farmer_name": "Job Opportunities",
+					"farmer_name": "Oportunidades de Emprego",
 					"farmer_description": "A nomadic life can only go so far, experience with tending the herd and learning from the land near the pastures have helped the Shepherd understand that it is time to settle down and create roots... Quite literally. See the promotion menu for details."
 				},
 				"level_3_data": {
@@ -13556,27 +13556,27 @@
 				"description": "Solitários amantes da natureza, os pastores domesticam animais gentis para cuidar deles, colhem seus recursos como lã ou carne e até processam alguns deles como leite ou ovos."
 			},
 			"shepherd_crook_corn": {
-				"display_name": "Croque de milho de pastor",
+				"display_name": "Croque de Milho de Pastor",
 				"description": "Um vigarista que aumenta a Compaixão do Pastor e a felicidade do rebanho."
 			},
 			"shepherd_churn": {
-				"display_name": "Churn pastor",
+				"display_name": "Pastor Churn",
 				"description": "Usado pelo Pastor para bater, mexer e desnatar diferentes produtos."
 			},
 			"shepherd_workbench": {
-				"display_name": "Caixa e moedor de pastor",
+				"display_name": "Caixa e Moedor do Pastor",
 				"description": "Usado pelo Pastor para juntar materiais ou moer ração."
 			},
 			"shepherd_crook_clay": {
 				"shepherd_crook_clay_talisman": {
-					"display_name": "Cajado de Cerâmica Shepherd",
-					"description": "Necessário para promover um lar a pastor."
+					"display_name": "Cajado de Pastor de Cerâmica",
+					"description": "Necessário para promover um Hearthling a Pastor."
 				},
-				"display_name": "Cajado de Cerâmica Shepherd",
+				"display_name": "Cajado de Pastor de Cerâmica",
 				"description": "Vem em uma cor bonita."
 			},
 			"shepherd_composter": {
-				"display_name": "Shepherd Composter",
+				"display_name": "Composteira do Pastor",
 				"description": "Usado pelo Pastor para preparar fertilizantes que podem ser usados nas fazendas."
 			}
 		},
@@ -20588,7 +20588,7 @@
 				"description": "É um macaco sagrado! Este companheirinho come apenas vegetais."
 			},
 			"panda": {
-				"display_name": "filhote de panda",
+				"display_name": "Filhote de Panda",
 				"description": "Urso fofo do leste além de Pal'Mum. Prefere vegetais, mas pode comer qualquer coisa."
 			},
 			"kitten": {
@@ -20618,11 +20618,11 @@
 				"description": "Tão pesado, mas ágil! Ainda está crescendo - será que vai parar?"
 			},
 			"dragon_mature_copper": {
-				"display_name": "Dragão de cobre maduro",
+				"display_name": "Dragão de Cobre maduro",
 				"description": "É mais forte, mais rápido e pode até lutar! Mas ainda está crescendo?"
 			},
 			"dragon_copper": {
-				"display_name": "dragão de cobre",
+				"display_name": "Dragão de Cobre",
 				"description": "Um forte amigo e protetor. Glorioso!"
 			},
 			"dragon_whelp_copper": {
@@ -20658,7 +20658,7 @@
 				}
 			},
 			"dragon_fire": {
-				"display_name": "Dragão de fogo",
+				"display_name": "Dragão de Fogo",
 				"description": "Menor que a maioria dos dragões, mas ágil e feroz com ataques fortes!"
 			},
 			"dragon_ice": {
@@ -20666,7 +20666,7 @@
 				"description": "Um dragão volumoso e resistente! Capaz de resistir a maioria dos golpes e ataques!"
 			},
 			"dragon_nature": {
-				"display_name": "dragão da natureza",
+				"display_name": "Dragão da Natureza",
 				"description": "Ágil e inteligente, este dragão pode envenenar inimigos e quebrar armaduras com ácido!"
 			},
 			"dragon_juvenile_fire": {
@@ -20707,14 +20707,14 @@
 			},
 			"cabbageling": {
 				"species": "cabbageling",
-				"display_name": "repolho",
+				"display_name": "Repolho",
 				"description": "É um repolho vivo! Aparentemente não precisa de comida! (É comida, mais ou menos...)",
 				"iconic_description": "Coloque-o no chão e... Veja o que acontece?!"
 			},
 			"candledark": {
 				"charmed_broom": {
-					"display_name": "Candledark Charmed Broom",
-					"description": "Time to tidy up this town! Flying adapter sold separately."
+					"display_name": "Vassoura Encantada Candledark",
+					"description": "É hora de arrumar esta cidade! Adaptador voador vendido separadamente."
 				}
 			},
 			"pet": {
@@ -20738,12 +20738,12 @@
 					"display_name": "carne de inseto gafanhoto"
 				},
 				"species": "gafanhoto",
-				"description": "inseto bonitinho",
+				"description": "Inseto bonitinho",
 				"display_name": "gafanhoto"
 			},
 			"scorpion": {
 				"scorpion_jerky": {
-					"display_name": "carne de escorpião"
+					"display_name": "Carne de Escorpião"
 				},
 				"species": "escorpião",
 				"display_name": "Escorpião",
@@ -20758,14 +20758,14 @@
 				"description": "pequeno inseto assustador"
 			},
 			"stag_beetle": {
-				"display_name": "besouro",
+				"display_name": "Besouro",
 				"description": "pequeno inseto assustador"
 			},
 			"monkey": {
-				"species": "macaco"
+				"species": "Macaco"
 			},
 			"bear": {
-				"species": "urso"
+				"species": "Urso"
 			},
 			"deer": {
 				"display_name": "Cervo",
@@ -20774,7 +20774,7 @@
 				"display_name_highlands": "vaca alce"
 			},
 			"deer_horned": {
-				"display_name": "veado",
+				"display_name": "Veado",
 				"display_name_arctic": "caribu",
 				"display_name_desert": "Gazela",
 				"display_name_highlands": "alce"
@@ -20826,7 +20826,7 @@
 			},
 			"big_bird": {
 				"nest": {
-					"display_name": "ninho de passarinho",
+					"display_name": "Ninho de Passarinho",
 					"description": "Agarre-o e corra!"
 				}
 			},
@@ -20860,29 +20860,29 @@
 				"display_name_highlands": "Auroques do Vale",
 				"description": "Um ruminante forte e selvagem, um parente mais velho do gentil moo-moo.",
 				"moomoo_wild_young": {
-					"display_name": "bezerro selvagem",
+					"display_name": "Bezerro Selvagem",
 					"description": "Um moo-moo selvagem bonitinho."
 				}
 			},
 			"boar": {
-				"display_name": "Javali selvagem"
+				"display_name": "Javali Selvagem"
 			},
 			"boar_pet": {
 				"display_name": "Javali"
 			},
 			"beehive": {
-				"display_name": "ninho de abelha",
+				"display_name": "Ninho de Abelha",
 				"description": "Cuidado, ainda está ativo! O mel pode ser colhido, mas as abelhas serão perdidas."
 			},
 			"beehive_dead": {
-				"display_name": "ninho de abelha morta",
+				"display_name": "ninho de Abelha Morta",
 				"description": "Não há mais abelhas aqui... Colha o que sobrou dos recursos!"
 			},
 			"duck": {
 				"display_name": "Pato",
 				"description": "Quack! Que surpresa de ave!",
 				"egg": {
-					"display_name": "ovo de pato fertilizado",
+					"display_name": "Ovo de Pato Fertilizado",
 					"description": "Tem certeza que não é um ovo de cisne?"
 				},
 				"young": {
@@ -20910,13 +20910,13 @@
 			"candledark": {
 				"frog": {
 					"display_name": "Magic Frog",
-					"description": "Oh no, it's raining frogs! Witchcraft!"
+					"description": "Oh, não, está chovendo Sapos! Feitiçaria!"
 				}
 			}
 		},
 		"food": {
 			"cherries": {
-				"display_name": "cerejas",
+				"display_name": "Cerejas",
 				"cherry_basket": {
 					"display_name": "Cesta de Cerejas",
 					"description": "Doce ou azedo, uma fruta saborosa para qualquer hora."
@@ -20940,13 +20940,13 @@
 					"description": "Uma sobremesa assada simples, mas saborosa, feita com cerejas."
 				},
 				"cherry_tart_serving": {
-					"display_name": "Fatia de torta de cereja",
+					"display_name": "Fatia de Torta de Cereja",
 					"description": "Saboroso!"
 				}
 			},
 			"huntsman_banquet": {
 				"huntsman_banquet": {
-					"display_name": "banquete do caçador",
+					"display_name": "Banquete do Caçador",
 					"description": "Uma carne de veado perfeitamente assada, preparada com um molho agridoce da floresta."
 				},
 				"huntsman_banquet_serving": {
@@ -20976,7 +20976,7 @@
 			},
 			"nut_pralines": {
 				"nut_pralines": {
-					"display_name": "bombons de nozes",
+					"display_name": "Bombons de Nozes",
 					"description": "Um cacho exótico e crocante de nozes açucaradas."
 				},
 				"nut_pralines_serving": {
@@ -20987,7 +20987,7 @@
 			"broth": {
 				"broth_serving": {
 					"description": "",
-					"display_name": "tigela de caldo"
+					"display_name": "Tigela de Caldo"
 				},
 				"broth": {
 					"display_name": "Caldo",
@@ -21021,13 +21021,13 @@
 					"description": "Deliciosos cogumelos prontos a comer!"
 				},
 				"desert_truffle_serving": {
-					"display_name": "Servindo de trufas do deserto",
+					"display_name": "Servindo de Trufas do Deserto",
 					"description": "Fungos saborosos!"
 				}
 			},
 			"bolete": {
 				"bolete_basket": {
-					"display_name": "cesta de boletos",
+					"display_name": "Cesta de Boletos",
 					"description": "Deliciosos cogumelos prontos a comer!"
 				},
 				"bolete_serving": {
@@ -21037,11 +21037,11 @@
 			},
 			"winter_morel": {
 				"winter_morel_basket": {
-					"display_name": "Cesta de cogumelos de inverno",
+					"display_name": "Cesta de Cogumelos de Inverno",
 					"description": "Deliciosos cogumelos prontos a comer!"
 				},
 				"winter_morel_serving": {
-					"display_name": "Servindo de cogumelos de inverno",
+					"display_name": "Servindo de Cogumelos de inverno",
 					"description": "Fungos saborosos!"
 				}
 			},
@@ -21066,13 +21066,13 @@
 				}
 			},
 			"bear_jerky": {
-				"display_name": "carne seca de urso"
+				"display_name": "Carne Seca de Urso"
 			},
 			"steak": {
-				"display_name": "bife cru",
+				"display_name": "Bife Cru",
 				"description": "Um pedaço de carne nobre crua de alta qualidade.",
 				"rotten": {
-					"display_name": "bife podre",
+					"display_name": "Bife Podre",
 					"description": "Antes magnífico, agora fedorento... Não tem mais utilidade."
 				}
 			},
@@ -21086,10 +21086,10 @@
 				}
 			},
 			"cougar_jerky": {
-				"display_name": "carne seca de gato grande"
+				"display_name": "Carne Seca de Gato Grande"
 			},
 			"fish_meat": {
-				"display_name": "Filé de peixe",
+				"display_name": "Filé de Peixe",
 				"rotten": {
 					"display_name": "Carne de Peixe podre",
 					"description": "Fede ainda mais do que antes."
@@ -21108,7 +21108,7 @@
 					"display_name": "Porção de Caviar"
 				},
 				"fish_big_roe_basket": {
-					"display_name": "cesta de caviar",
+					"display_name": "Cesta de caviar",
 					"description": "Ovos menores de peixes maiores e mais resistentes são uma iguaria muito valiosa."
 				}
 			},
@@ -21125,12 +21125,12 @@
 				"cooked_rice_serving": {
 					"display_name": "Tigela de Arroz Cozido"
 				},
-				"display_name": "Arroz cozido",
+				"display_name": "Arroz Cozido",
 				"description": "Fervido e pegajoso o suficiente."
 			},
 			"rice": {
 				"paddy_basket": {
-					"display_name": "cesta de arroz",
+					"display_name": "Cesta de arroz",
 					"description": "Sementes de grama não moídas. Moer em arroz cru ou farinha versátil."
 				},
 				"raw_rice": {
@@ -21156,20 +21156,20 @@
 				"description": "A carpa pode ser muito saborosa se for retirada de água limpa."
 			},
 			"fish_catfish_meat": {
-				"display_name": "filé de bagre",
+				"display_name": "Filé de Bagre",
 				"description": "O peixe-gato tem um sabor particular de terra."
 			},
 			"fish_salmon_meat": {
-				"display_name": "Filé de salmão",
+				"display_name": "Filé de Salmão",
 				"description": "O salmão é um peixe muito cobiçado e saboroso!"
 			},
 			"fish_trout_meat": {
-				"display_name": "filé de truta",
+				"display_name": "Filé de Truta",
 				"description": "A truta tem um sabor suave e doce."
 			},
 			"sushi_vegetarian": {
 				"sushi_vegetarian": {
-					"display_name": "sushi vegetariano",
+					"display_name": "Sushi Vegetariano",
 					"description": "Uma alternativa vegetariana a um prato exótico."
 				},
 				"sushi_vegetarian_serving": {
@@ -21187,10 +21187,10 @@
 			},
 			"fisherman_soup": {
 				"fisherman_soup_serving": {
-					"display_name": "Tigela de sopa de pescador"
+					"display_name": "Tigela de Sopa de Pescador"
 				},
 				"fisherman_soup": {
-					"display_name": "sopa de pescador",
+					"display_name": "Sopa de Pescador",
 					"description": "Uma sopa saudável e picante tradicional da Ascendência."
 				}
 			},
@@ -21232,11 +21232,11 @@
 			},
 			"catfish_tagine": {
 				"catfish_tagine": {
-					"display_name": "peixe-gato tagine",
+					"display_name": "Peixe-gato tagine",
 					"description": "Peixe-gato e legumes cozidos em uma panela de barro."
 				},
 				"catfish_tagine_serving": {
-					"display_name": "Porção de Catfish Tagine"
+					"display_name": "Porção de Peixe-gato Tagine"
 				}
 			},
 			"sweet_tooth": {
@@ -21271,17 +21271,17 @@
 				"display_name": "Porção de Massa",
 				"description": "A massa é um ingrediente básico para vários produtos de panificação, como pão.",
 				"unleavened": {
-					"display_name": "Massa sem Fermento",
+					"display_name": "Massa Sem Fermento",
 					"description": "Crescerá em uma porção de massa se for deixado em uma mesa de fermento!"
 				}
 			},
 			"batter": {
-				"display_name": "tigela de massa",
+				"display_name": "Tigela de Massa",
 				"description": "A massa pode ser usada como base para muitos pratos como bolinhos"
 			},
 			"panettone": {
 				"panettone_serving": {
-					"display_name": "fatia de panetone",
+					"display_name": "Fatia de Panetone",
 					"description": "om nom nom"
 				},
 				"panettone": {
@@ -21300,7 +21300,7 @@
 				}
 			},
 			"golden_egg": {
-				"display_name": "Ovo dourado",
+				"display_name": "Ovo Dourado",
 				"description": "É um ovo de ouro! Vale bilhões de moedas de ouro! Provavelmente certo?"
 			},
 			"megacrop": {
@@ -21320,11 +21320,11 @@
 			},
 			"ostrich_feed": {
 				"ostrich_feed": {
-					"display_name": "ração de avestruz",
+					"display_name": "Ração de Avestruz",
 					"description": "Para alimentação de aves grandes"
 				},
 				"ostrich_feed_ground": {
-					"display_name": "ração de avestruz",
+					"display_name": "Ração de Avestruz Premium",
 					"description": "Muito nutritivo e amado por grandes pássaros."
 				}
 			},
@@ -21350,11 +21350,11 @@
 			},
 			"megacrop_ostrich_feed": {
 				"megacrop_ostrich_feed": {
-					"display_name": "Alimentação de megaherança",
+					"display_name": "Alimentação de Megaherança",
 					"description": "Hum! Esta suculenta fruta gigante da herança faria uma refeição deliciosa para avestruzes!"
 				},
 				"megacrop_ostrich_feed_ground": {
-					"display_name": "Alimentação de megaherança",
+					"display_name": "Alimentação de Megaherança",
 					"description": "Saborosas fatias de uma megafruta hereditária. Esta refeição vai durar um bom tempo!"
 				}
 			},
@@ -21411,7 +21411,7 @@
 			"dairy": {
 				"cheese_fresh": {
 					"cheese_fresh": {
-						"display_name": "Queijo fresco",
+						"display_name": "Queijo Fresco",
 						"description": "Macio, úmido e delicioso! Este queijo vai estragar depois de algum tempo se não for comido."
 					},
 					"cheese_fresh_serving": {
@@ -21471,7 +21471,7 @@
 				}
 			},
 			"beef_jerky": {
-				"display_name": "Carne seca"
+				"display_name": "Carne Seca"
 			},
 			"fruit_yogurt": {
 				"fruit_yogurt": {
@@ -21495,7 +21495,7 @@
 			},
 			"butter_cookies": {
 				"butter_cookies": {
-					"display_name": "Biscoitos de manteiga",
+					"display_name": "Biscoitos de Manteiga",
 					"description": "Uma porção de pequenas e saborosas iguarias amanteigadas."
 				},
 				"butter_cookies_serving": {
@@ -21513,7 +21513,7 @@
 			},
 			"cheesecake": {
 				"cheesecake": {
-					"display_name": "bolo de queijo",
+					"display_name": "Bolo de Queijo",
 					"description": "Não é realmente queijo nem bolo, mas tão delicioso quanto os dois."
 				},
 				"cheesecake_serving": {
@@ -21531,7 +21531,7 @@
 			},
 			"melted_poyo": {
 				"melted_poyo": {
-					"display_name": "poyo derretido",
+					"display_name": "Poyo Derretido",
 					"description": "Um saboroso poyo assado recheado com vegetais e coberto com queijo."
 				},
 				"melted_poyo_serving": {
@@ -21548,12 +21548,12 @@
 				}
 			},
 			"cooking_oil": {
-				"display_name": "Jarro de óleo de cozinha",
+				"display_name": "Jarro de Óleo de Cozinha",
 				"description": "Extraído de vegetais. Utilizável como graxa de cozinha ou base de condimento."
 			},
 			"fish_fingers": {
 				"fish_fingers": {
-					"display_name": "Dedos de peixe",
+					"display_name": "Dedos de Peixe",
 					"description": "Deliciosos e crocantes pequenos pedaços de peixe frito."
 				},
 				"fish_fingers_serving": {
@@ -21616,7 +21616,7 @@
 				"description": "Nozes finamente moídas. Pode ser usado como uma farinha macia."
 			},
 			"nut_bread": {
-				"display_name": "pão de nozes",
+				"display_name": "Pão de Nozes",
 				"description": "Picante e macio.",
 				"nut_bread_serving": {
 					"display_name": "Fatia de Pão de Nozes"
@@ -21624,7 +21624,7 @@
 			},
 			"nut_cake": {
 				"nut_cake": {
-					"display_name": "bolo de nozes",
+					"display_name": "Bolo de Nozes",
 					"description": "Delicioso e doce, como um bolo deve ser."
 				},
 				"nut_cake_serving": {
@@ -21633,7 +21633,7 @@
 				}
 			},
 			"nutty_meatballs": {
-				"display_name": "almôndegas de nozes",
+				"display_name": "Almôndegas de Nozes",
 				"description": "Traz os sabores mais requintados.",
 				"nutty_meatballs_serving": {
 					"display_name": "Porção de almôndegas de nozes",
@@ -21642,7 +21642,7 @@
 			},
 			"honey": {
 				"honey_wild": {
-					"display_name": "Mel selvagem",
+					"display_name": "Mel Selvagem",
 					"description": "Doce, com sabor de terra. Pode ser comido cru ou usado na culinária."
 				},
 				"honey": {
@@ -21658,11 +21658,11 @@
 			},
 			"honeybuns": {
 				"honeybuns_serving": {
-					"display_name": "pão de mel",
+					"display_name": "Pão de Mel",
 					"description": "Deixe-me adivinhar... Alguém roubou seu pão doce!"
 				},
 				"honeybuns": {
-					"display_name": "pão de mel",
+					"display_name": "Pão de Mel",
 					"description": "Pãezinhos fofinhos e fofinhos."
 				}
 			},
@@ -21686,11 +21686,11 @@
 			},
 			"hearth_fodder": {
 				"hearth_fodder": {
-					"display_name": "forragem para animais Hearthbud",
+					"display_name": "Forragem Para Animais Hearthbud",
 					"description": "Forragem animal imbuída da essência do Lar."
 				},
 				"hearth_fodder_ground": {
-					"display_name": "forragem para animais Hearthbud",
+					"display_name": "Forragem Para Animais Hearthbud",
 					"description": "Delicioso, atraente e aumentará muito a qualidade dos produtos de origem animal!"
 				}
 			},
@@ -22344,7 +22344,7 @@
 				}
 			},
 			"sheep_jerky": {
-				"display_name": "carne seca"
+				"display_name": "Carne Seca"
 			},
 			"lingonberry_serving": {
 				"display_name": "Porção de Lingonberries"
